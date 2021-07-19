@@ -1,7 +1,11 @@
 package application;
 
+import models.User;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class UserHelper extends HelperBase{
 
@@ -32,5 +36,15 @@ public class UserHelper extends HelperBase{
 
     public void logOut() {
         click(By.xpath("//button[.='Sign Out']"));
+    }
+
+    public void fillLoginForm(User user) {
+        type(By.xpath("//input[@placeholder='Email']"), user.getEmail());
+        type(By.xpath("//input[@placeholder='Password']"), user.getPassword());
+    }
+
+    public void acceptAlert() {
+        new WebDriverWait(wd, 10).until(ExpectedConditions.alertIsPresent());
+        wd.switchTo().alert().accept();
     }
 }
