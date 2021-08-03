@@ -1,0 +1,4 @@
+20:28:56 INFO  TestBase - Start test loginTestWithWrongPassword
+20:29:27 INFO  TestBase - Login with Email: 12345@asd.com; Password: aA1234567;
+20:29:58 INFO  TestBase - Test passed
+20:29:58 INFO  TestBase - End of test loginTestWithWrongPassword

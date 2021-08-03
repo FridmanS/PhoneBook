@@ -1,0 +1,2 @@
+20:24:08 INFO  TestBase - Start test quickTest
+20:24:08 INFO  TestBase - End of test quickTest
