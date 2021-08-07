@@ -1,0 +1,12 @@
+16:08:14 INFO  TestBase - Start test loginTestDP_CSV
+16:08:18 INFO  TestBase - Login with Email: 12345@asd.com; Password: aA1234567$;
+16:08:18 INFO  TestBase - Test passed
+16:08:18 INFO  TestBase - End of test loginTestDP_CSV
+16:08:18 INFO  TestBase - Start test loginTestDP_CSV
+16:08:19 INFO  TestBase - Login with Email: noa@gmail.com; Password: Nnoa12345$;
+16:08:19 INFO  TestBase - Test passed
+16:08:19 INFO  TestBase - End of test loginTestDP_CSV
+16:08:19 INFO  TestBase - Start test loginTestDP_CSV
+16:08:20 INFO  TestBase - Login with Email: sonya@gmail.com; Password: Ss12345$;
+16:08:20 INFO  TestBase - Test passed
+16:08:20 INFO  TestBase - End of test loginTestDP_CSV

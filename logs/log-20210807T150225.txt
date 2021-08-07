@@ -1,0 +1,12 @@
+15:02:28 INFO  TestBase - Start test loginTestDataProvider
+15:02:31 INFO  TestBase - Login with Email: 12345@asd.com; Password: aA1234567$;
+15:02:32 INFO  TestBase - Test passed
+15:02:32 INFO  TestBase - End of test loginTestDataProvider
+15:02:32 INFO  TestBase - Start test loginTestDataProvider
+15:02:33 INFO  TestBase - Login with Email: 12345@asd.com; Password: aA1234567$;
+15:02:33 INFO  TestBase - Test passed
+15:02:33 INFO  TestBase - End of test loginTestDataProvider
+15:02:33 INFO  TestBase - Start test loginTestDataProvider
+15:02:34 INFO  TestBase - Login with Email: 12345@asd.com; Password: aA1234567$;
+15:02:34 INFO  TestBase - Test passed
+15:02:34 INFO  TestBase - End of test loginTestDataProvider
