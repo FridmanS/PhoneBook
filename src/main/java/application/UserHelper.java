@@ -47,4 +47,11 @@ public class UserHelper extends HelperBase{
         new WebDriverWait(wd, 10).until(ExpectedConditions.alertIsPresent());
         wd.switchTo().alert().accept();
     }
+
+    public void login(User user) {
+        openLoginForm();
+        fillLoginForm(user);
+        submitLogin();
+        pause(1000);
+    }
 }

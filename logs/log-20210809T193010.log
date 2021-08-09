@@ -1,0 +1,41 @@
+19:30:12 INFO  application.ApplicationManager - Start in browser CHROME
+19:30:13 INFO  TestBase - Start test addContactTestBase
+19:30:13 INFO  application.MyListener - Start finde element by --> By.xpath: //button[.='Sign Out']
+19:30:16 INFO  application.MyListener - The element By.xpath: //button[.='Sign Out'] was found
+19:30:16 INFO  application.MyListener - Start finde element by --> By.xpath: //*[.='LOGIN']
+19:30:16 INFO  application.MyListener - The element By.xpath: //*[.='LOGIN'] was found
+19:30:17 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Email']
+19:30:17 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Email'] was found
+19:30:17 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Email']
+19:30:17 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Email'] was found
+19:30:17 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Password']
+19:30:17 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Password'] was found
+19:30:17 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Password']
+19:30:17 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Password'] was found
+19:30:17 INFO  application.MyListener - Start finde element by --> By.xpath: //button[text()=' Login']
+19:30:17 INFO  application.MyListener - The element By.xpath: //button[text()=' Login'] was found
+19:30:18 INFO  application.MyListener - Start finde element by --> By.xpath: //a[.='ADD']
+19:30:18 INFO  application.MyListener - The element By.xpath: //a[.='ADD'] was found
+19:30:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+19:30:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+19:30:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+19:30:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+19:30:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+19:30:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+19:30:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+19:30:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+19:30:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+19:30:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+19:30:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+19:30:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+19:30:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+19:30:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+19:30:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+19:30:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+19:30:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+19:30:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+19:30:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+19:30:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+19:30:19 INFO  application.MyListener - Start finde element by --> By.xpath: //button/b
+19:30:19 INFO  application.MyListener - The element By.xpath: //button/b was found
+19:30:19 INFO  TestBase - End of test addContactTestBase

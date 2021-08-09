@@ -1,5 +1,6 @@
 package application;
 
+import models.Contact;
 import models.User;
 import org.testng.annotations.DataProvider;
 
@@ -27,6 +28,25 @@ public class MyDataProvider {
         while(line != null) {
             String[] split = line.split(";");
             list.add(new Object[]{new User().withEmail(split[0]).withPassword(split[1])});
+            line = reader.readLine();
+        }
+        return list.iterator();
+    }
+    @DataProvider
+    public Iterator<Object[]> dataContactCSV() throws IOException {
+        List<Object[]> list = new ArrayList<>();
+        BufferedReader reader = new BufferedReader(new FileReader(new File("src/test/resources/contactData.csv")));
+        String line = reader.readLine();
+        while(line != null) {
+            String[] split = line.split(",");
+            list.add(new Object[]{Contact.builder()
+                    .name(split[0])
+                    .lastName(split[1])
+                    .phone(split[2])
+                    .email(split[3])
+                    .address(split[4])
+                    .description(split[5])
+                    .build()});
             line = reader.readLine();
         }
         return list.iterator();

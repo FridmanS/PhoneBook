@@ -45,4 +45,11 @@ public class HelperBase {
             e.printStackTrace();
         }
     }
+    public void pause(int i){
+        try {
+            Thread.sleep(i);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
 }
