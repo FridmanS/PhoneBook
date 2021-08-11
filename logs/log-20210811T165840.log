@@ -1,0 +1,34 @@
+16:58:42 INFO  application.ApplicationManager - Start in browser CHROME
+16:58:43 INFO  TestBase - Start test removeOneContact
+16:58:43 INFO  application.MyListener - Start finde element by --> By.xpath: //button[.='Sign Out']
+16:58:46 INFO  application.MyListener - The element By.xpath: //button[.='Sign Out'] was found
+16:58:46 INFO  application.MyListener - Start finde element by --> By.xpath: //*[.='LOGIN']
+16:58:46 INFO  application.MyListener - The element By.xpath: //*[.='LOGIN'] was found
+16:58:46 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Email']
+16:58:46 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Email'] was found
+16:58:46 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Email']
+16:58:46 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Email'] was found
+16:58:46 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Password']
+16:58:47 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Password'] was found
+16:58:47 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Password']
+16:58:47 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Password'] was found
+16:58:47 INFO  application.MyListener - Start finde element by --> By.xpath: //button[text()=' Login']
+16:58:47 INFO  application.MyListener - The element By.xpath: //button[text()=' Login'] was found
+16:58:48 INFO  application.MyListener - Start finde element by --> By.cssSelector: .contact-item_card__2SOIM
+16:58:48 INFO  application.MyListener - The element By.cssSelector: .contact-item_card__2SOIM was found
+16:58:48 INFO  application.MyListener - Start finde element by --> By.xpath: //h3
+16:58:48 INFO  application.MyListener - The element By.xpath: //h3 was found
+16:58:48 INFO  application.MyListener - Start finde element by --> By.xpath: //button[.='Remove']
+16:58:48 INFO  application.MyListener - The element By.xpath: //button[.='Remove'] was found
+16:58:48 INFO  application.MyListener - Start finde element by --> By.xpath: //h3
+16:58:48 INFO  application.MyListener - The element By.xpath: //h3 was found
+17:00:02 INFO  application.MyListener - Screen--> src/test/screenshots/screen-3593.png
+17:00:02 INFO  application.MyListener - stale element reference: element is not attached to the page document
+  (Session info: chrome=92.0.4515.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-A9FORBB3', ip: '10.0.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\fridm\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63322}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bff370248f00a91695e13e0bc4c8ca33
+17:00:12 INFO  TestBase - End of test removeOneContact

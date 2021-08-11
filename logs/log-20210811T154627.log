@@ -1,0 +1,136 @@
+15:46:29 INFO  application.ApplicationManager - Start in browser CHROME
+15:46:30 INFO  TestBase - Start test addContactTestBase
+15:46:30 INFO  application.MyListener - Start finde element by --> By.xpath: //button[.='Sign Out']
+15:46:33 INFO  application.MyListener - The element By.xpath: //button[.='Sign Out'] was found
+15:46:33 INFO  application.MyListener - Start finde element by --> By.xpath: //*[.='LOGIN']
+15:46:33 INFO  application.MyListener - The element By.xpath: //*[.='LOGIN'] was found
+15:46:33 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Email']
+15:46:33 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Email'] was found
+15:46:33 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Email']
+15:46:33 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Email'] was found
+15:46:33 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Password']
+15:46:33 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Password'] was found
+15:46:33 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Password']
+15:46:33 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Password'] was found
+15:46:33 INFO  application.MyListener - Start finde element by --> By.xpath: //button[text()=' Login']
+15:46:33 INFO  application.MyListener - The element By.xpath: //button[text()=' Login'] was found
+15:46:34 INFO  application.MyListener - Start finde element by --> By.xpath: //a[.='ADD']
+15:46:34 INFO  application.MyListener - The element By.xpath: //a[.='ADD'] was found
+15:46:34 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:46:34 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:46:34 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:46:34 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:46:34 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+15:46:34 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+15:46:34 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+15:46:34 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+15:46:34 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Phone']
+15:46:34 INFO  application.MyListener - The element By.cssSelector: [placeholder='Phone'] was found
+15:46:34 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Phone']
+15:46:34 INFO  application.MyListener - The element By.cssSelector: [placeholder='Phone'] was found
+15:46:34 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+15:46:34 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+15:46:34 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+15:46:34 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+15:46:34 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+15:46:35 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+15:46:35 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+15:46:35 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+15:46:35 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+15:46:35 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+15:46:35 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+15:46:35 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+15:46:35 INFO  application.MyListener - Start finde element by --> By.cssSelector: div[class^='contact-page']
+15:46:38 INFO  application.MyListener - Screen--> src/test/screenshots/screen-2798.png
+15:46:38 INFO  application.MyListener - no such element: Unable to locate element: {"method":"css selector","selector":"div[class^='contact-page']"}
+  (Session info: chrome=92.0.4515.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-A9FORBB3', ip: '10.0.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\fridm\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64593}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 209e7c4f85c66e3edbeb87b2b7801fd3
+*** Element info: {Using=css selector, value=div[class^='contact-page']}
+15:46:38 INFO  TestBase - End of test addContactTestBase
+15:46:38 INFO  TestBase - Start test addContactTestBase
+15:46:38 INFO  application.MyListener - Start finde element by --> By.xpath: //button[.='Sign Out']
+15:46:38 INFO  application.MyListener - The element By.xpath: //button[.='Sign Out'] was found
+15:46:38 INFO  application.MyListener - Start finde element by --> By.xpath: //a[.='ADD']
+15:46:38 INFO  application.MyListener - The element By.xpath: //a[.='ADD'] was found
+15:46:38 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:46:38 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:46:38 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:46:38 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:46:38 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+15:46:38 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+15:46:38 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+15:46:38 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+15:46:38 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Phone']
+15:46:38 INFO  application.MyListener - The element By.cssSelector: [placeholder='Phone'] was found
+15:46:38 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Phone']
+15:46:38 INFO  application.MyListener - The element By.cssSelector: [placeholder='Phone'] was found
+15:46:39 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+15:46:39 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+15:46:39 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+15:46:39 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+15:46:39 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+15:46:39 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+15:46:39 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+15:46:39 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+15:46:39 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+15:46:39 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+15:46:39 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+15:46:39 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+15:46:39 INFO  application.MyListener - Start finde element by --> By.cssSelector: div[class^='contact-page']
+15:46:42 INFO  application.MyListener - Screen--> src/test/screenshots/screen-2802.png
+15:46:42 INFO  application.MyListener - no such element: Unable to locate element: {"method":"css selector","selector":"div[class^='contact-page']"}
+  (Session info: chrome=92.0.4515.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-A9FORBB3', ip: '10.0.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\fridm\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64593}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 209e7c4f85c66e3edbeb87b2b7801fd3
+*** Element info: {Using=css selector, value=div[class^='contact-page']}
+15:46:42 INFO  TestBase - End of test addContactTestBase
+15:46:42 INFO  TestBase - Start test addContactTestBase
+15:46:42 INFO  application.MyListener - Start finde element by --> By.xpath: //button[.='Sign Out']
+15:46:42 INFO  application.MyListener - The element By.xpath: //button[.='Sign Out'] was found
+15:46:42 INFO  application.MyListener - Start finde element by --> By.xpath: //a[.='ADD']
+15:46:42 INFO  application.MyListener - The element By.xpath: //a[.='ADD'] was found
+15:46:42 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:46:42 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:46:42 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:46:42 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:46:42 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+15:46:42 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+15:46:42 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+15:46:43 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+15:46:43 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Phone']
+15:46:43 INFO  application.MyListener - The element By.cssSelector: [placeholder='Phone'] was found
+15:46:43 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Phone']
+15:46:43 INFO  application.MyListener - The element By.cssSelector: [placeholder='Phone'] was found
+15:46:43 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+15:46:43 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+15:46:43 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+15:46:43 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+15:46:43 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+15:46:43 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+15:46:43 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+15:46:43 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+15:46:43 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+15:46:43 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+15:46:43 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+15:46:43 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+15:46:43 INFO  application.MyListener - Start finde element by --> By.cssSelector: div[class^='contact-page']
+15:46:46 INFO  application.MyListener - Screen--> src/test/screenshots/screen-2806.png
+15:46:46 INFO  application.MyListener - no such element: Unable to locate element: {"method":"css selector","selector":"div[class^='contact-page']"}
+  (Session info: chrome=92.0.4515.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-A9FORBB3', ip: '10.0.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\fridm\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64593}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 209e7c4f85c66e3edbeb87b2b7801fd3
+*** Element info: {Using=css selector, value=div[class^='contact-page']}
+15:46:46 INFO  TestBase - End of test addContactTestBase

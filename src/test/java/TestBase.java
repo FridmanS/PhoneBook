@@ -5,6 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.testng.annotations.*;
 
 import java.lang.reflect.Method;
+import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
 
 public class TestBase {
@@ -14,8 +15,11 @@ public class TestBase {
     Logger logger = LoggerFactory.getLogger(TestBase.class);
 
     @BeforeMethod
-    public void startLogger(Method m){
+    public void startLogger(Method m, Object[] p){
+
         logger.info("Start test " + m.getName());
+        logger.info("Test start with data: " + Arrays.asList(p));
+        logger.info("=================================================================================");
     }
 
     @AfterMethod

@@ -1,0 +1,102 @@
+15:27:12 INFO  application.ApplicationManager - Start in browser CHROME
+15:27:13 INFO  TestBase - Start test addContactTestBase
+15:27:13 INFO  application.MyListener - Start finde element by --> By.xpath: //button[.='Sign Out']
+15:27:16 INFO  application.MyListener - The element By.xpath: //button[.='Sign Out'] was found
+15:27:16 INFO  application.MyListener - Start finde element by --> By.xpath: //*[.='LOGIN']
+15:27:16 INFO  application.MyListener - The element By.xpath: //*[.='LOGIN'] was found
+15:27:16 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Email']
+15:27:16 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Email'] was found
+15:27:16 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Email']
+15:27:16 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Email'] was found
+15:27:16 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Password']
+15:27:16 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Password'] was found
+15:27:16 INFO  application.MyListener - Start finde element by --> By.xpath: //input[@placeholder='Password']
+15:27:16 INFO  application.MyListener - The element By.xpath: //input[@placeholder='Password'] was found
+15:27:16 INFO  application.MyListener - Start finde element by --> By.xpath: //button[text()=' Login']
+15:27:16 INFO  application.MyListener - The element By.xpath: //button[text()=' Login'] was found
+15:27:17 INFO  application.MyListener - Start finde element by --> By.xpath: //a[.='ADD']
+15:27:17 INFO  application.MyListener - The element By.xpath: //a[.='ADD'] was found
+15:27:17 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:27:17 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:27:17 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:27:17 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:27:17 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:27:17 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:27:17 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+15:27:17 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+15:27:17 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+15:27:17 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+15:27:17 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Phone']
+15:27:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='Phone'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Phone']
+15:27:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='Phone'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+15:27:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+15:27:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+15:27:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+15:27:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+15:27:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+15:27:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.xpath: //button/b
+15:27:18 INFO  application.MyListener - The element By.xpath: //button/b was found
+15:27:18 INFO  TestBase - End of test addContactTestBase
+15:27:18 INFO  TestBase - Start test addContactTestBase
+15:27:18 INFO  application.MyListener - Start finde element by --> By.xpath: //button[.='Sign Out']
+15:27:18 INFO  application.MyListener - The element By.xpath: //button[.='Sign Out'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.xpath: //a[.='ADD']
+15:27:18 INFO  application.MyListener - The element By.xpath: //a[.='ADD'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:27:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:27:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:27:18 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:27:18 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:27:19 INFO  application.MyListener - Screen--> src/test/screenshots/screen-1638.png
+15:27:19 INFO  application.MyListener - stale element reference: element is not attached to the page document
+  (Session info: chrome=92.0.4515.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-A9FORBB3', ip: '10.0.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\fridm\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61232}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9bd72550f6d8aa441c6001c67b32a05b
+15:27:19 INFO  TestBase - End of test addContactTestBase
+15:27:19 INFO  TestBase - Start test addContactTestBase
+15:27:19 INFO  application.MyListener - Start finde element by --> By.xpath: //button[.='Sign Out']
+15:27:19 INFO  application.MyListener - The element By.xpath: //button[.='Sign Out'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.xpath: //a[.='ADD']
+15:27:19 INFO  application.MyListener - The element By.xpath: //a[.='ADD'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Name']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='Name'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Last Name']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='Last Name'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Phone']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='Phone'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Phone']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='Phone'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='email']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='email'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='Address']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='Address'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.cssSelector: [placeholder='description']
+15:27:19 INFO  application.MyListener - The element By.cssSelector: [placeholder='description'] was found
+15:27:19 INFO  application.MyListener - Start finde element by --> By.xpath: //button/b
+15:27:19 INFO  application.MyListener - The element By.xpath: //button/b was found
+15:27:19 INFO  TestBase - End of test addContactTestBase

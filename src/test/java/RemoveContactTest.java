@@ -1,5 +1,5 @@
 import models.User;
-import org.openqa.selenium.WebElement;
+import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
@@ -14,8 +14,19 @@ public class RemoveContactTest extends TestBase{
 
     @Test
     public void removeOneContact(){
-        app.contactHelper().removeOneContact();
+        if(!app.contactHelper().listOfContactIsEmpty()) {
+            String phone = app.contactHelper().removeOneContact();
+            Assert.assertFalse(app.contactHelper().isContactPresent(phone));
+        }else
+            logger.info("List of contacts is empty");
     }
 
-
+    @Test
+    public void removeAllContacts(){
+        if(!app.contactHelper().listOfContactIsEmpty()) {
+            app.contactHelper().removeAllContacts();
+            Assert.assertTrue(app.contactHelper().listOfContactIsEmpty());
+        }else
+            logger.info("List of contacts is empty");
+    }
 }
