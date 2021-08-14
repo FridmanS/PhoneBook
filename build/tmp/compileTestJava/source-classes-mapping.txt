@@ -1,0 +1,12 @@
+TestBase.java
+ TestBase
+QuickTest.java
+ QuickTest
+RemoveContactTest.java
+ RemoveContactTest
+SmokeTest.java
+ SmokeTest
+LoginTest.java
+ LoginTest
+AddContactTest.java
+ AddContactTest

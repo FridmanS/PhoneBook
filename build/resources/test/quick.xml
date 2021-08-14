@@ -4,9 +4,7 @@
 
     <test name="Reg">
         <classes>
-            <class name="SmokeTest"/>
             <class name="QuickTest"/>
-            <class name="LoginTest"/>
         </classes>
     </test>
 </suite>
